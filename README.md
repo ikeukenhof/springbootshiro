@@ -1,6 +1,6 @@
 # springboot + shiro + thymeleaf  demo
 
-> ShiroConfig和AccountRealm
+> ShiroConfig.java and AccountRealm.java is the most important class.
 
 # Getting Started
 
